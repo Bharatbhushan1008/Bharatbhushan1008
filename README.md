@@ -4,9 +4,9 @@
 
 ### MCA (Honors) | Artificial Intelligence & Machine Learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer+Enthusiast;Deep+Learning+%7C+Machine+Learning;Building+Intelligent+Systems;Data+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer+Enthusiast;Deep+Learning+%7C+Machine+Learning;Building+Intelligent+Systems;DSA+and+Problem+Solving" alt="Typing SVG" />
 
-💡 *Designing intelligent systems • Turning data into decisions • Passionate AI Engineer*
+💡 *DSA & Problem Solving• Turning data into decisions • Passionate AI Engineer*
 
 </div>
 
